@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyCUDPifdtDZgftNExQkkWHkweHL5YMM9t0'; 
+const API_KEY = ''; 
 // Replace with your actual Gemini API key
 
 const API_URL = `https://gemini.ai/api/v1/generate`;
